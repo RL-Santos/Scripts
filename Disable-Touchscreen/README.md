@@ -1,0 +1,2 @@
+# Disable Touchscreen
+This whole thing goal is to run `xinput list` get the specific device then disbale it by `xinput disable <ID>` thats the whole idea so if you want to use this too just replace the device name
